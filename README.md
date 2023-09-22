@@ -1,27 +1,57 @@
-# React + TypeScript + Vite
+<h1 align="center">
+    Upload AI
+</h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Index
 
-Currently, two official plugins are available:
+- [About](#-about)
+- [Technologies Used](#-technologies-used)
+- [How to download the project](#-how-to-download-the-project)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## Expanding the ESLint configuration
+## 🔖&nbsp; About
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+Application that allows you to upload videos and, through AI, automatically create eye-catching titles and descriptions with good indexing.
 
-- Configure the top-level `parserOptions` property like this:
+---
 
-```js
-   parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-   },
+## 🚀 Technologies Used
+
+The project was developed using the following technologies
+
+- [ReactJS](https://legacy.reactjs.org)
+- [TypeScript](https://www.typescriptlang.org)
+- [Tailwindcss](https://tailwindcss.com)
+- [Radix UI](https://www.radix-ui.com/primitives)
+- [Lucide](https://lucide.dev)
+- [Zod](https://zod.dev)
+- [ffmpeg.wasm](https://ffmpegwasm.netlify.app)
+- [Axios](https://axios-http.com)
+- [Node](https://nodejs.org/en)
+- [Fastify](https://fastify.dev)
+- [Prisma](https://www.prisma.io)
+- [Openai](https://openai.com)
+- [Vite](https://vitejs.dev)
+
+---
+
+## 🗂 How to download the project
+
+```bash
+
+    # Clone the repository
+    $ git clone https://github.com/vanessabrazuna/upload-ai.git
+
+    # Enter directory
+    $ cd upload-ai
+
+    # Install the dependencies
+    $ pnpm install
+
+    # Start the project
+    $ pnpm run dev
 ```
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+---
+
+Developed 💜 by Vanessa Brazuna
