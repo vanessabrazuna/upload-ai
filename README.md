@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img alt="Upload AI" src="https://github-production-user-asset-6210df.s3.amazonaws.com/73675022/287087280-d783e9a7-0b97-4000-a832-9005cb500154.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20231130%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20231130T222549Z&X-Amz-Expires=300&X-Amz-Signature=59f2d9487f33a983a266a3dded7f90ff01400d4a0b7245a3eb3fa7940beb0772&X-Amz-SignedHeaders=host&actor_id=0&key_id=0&repo_id=0" width="100%">
+  <img alt="Upload AI" src="https://github.com/community/community/assets/73675022/cdbeccb5-55a5-4938-8baf-660a7489e98e" width="100%">
 </p>
 
 # Index
